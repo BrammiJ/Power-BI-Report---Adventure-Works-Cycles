@@ -7,8 +7,8 @@ Designed a professional quality, end-to-end business intelligence solution for A
 
 (i) Exec summary - provides a summarized visualisation of entire data
 
-(ii) Product Detail - provides a detailed visualisation of any individual product selected
+(ii) Product Detail - provides a detailed visualisation from products perspective 
 
-(iii) Customer Detail - provides a detailed visualisation of any individual customer selected
+(iii) Customer Detail - provides a detailed visualisation from customers perspective
 
 Note: Kindly refer the .png files for the desired final outputs
